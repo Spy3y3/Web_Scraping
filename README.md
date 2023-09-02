@@ -1,4 +1,4 @@
-# Web Scraping using Python and exporting all Microsoft Excel formulas in an Excel file
+# Web Scraping using Python and exporting all Microsoft Excel formulas into Excel file
 
 This repository contains Python code in the form of a Jupyter Notebook that demonstrates how to scrape data from a web page and export it to an Excel file. It utilizes libraries such as Pandas, BeautifulSoup, and XlsxWriter to perform these tasks.
 
